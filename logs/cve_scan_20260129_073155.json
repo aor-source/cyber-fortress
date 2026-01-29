@@ -1,0 +1,14 @@
+{
+  "scan_type": "cve_vulnerability",
+  "timestamp": "2026-01-29T15:31:56Z",
+  "device": {
+    "model": "Pixel 10",
+    "brand": "google",
+    "android_version": "16",
+    "sdk": "36",
+    "security_patch": "2026-01-05",
+    "kernel": "6.6.98-android15-8-g4b48560cd07d-ab14239520-4k",
+    "soc": "laguna",
+    "months_behind_patch": 0
+  },
+  "vulnerabilities": [

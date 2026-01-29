@@ -1,0 +1,13 @@
+{
+  "scan_type": "mdm_shadow_mdm",
+  "timestamp": "2026-01-29T15:27:43Z",
+  "device": {
+    "model": "Pixel 10",
+    "android_version": "16",
+    "security_patch": "2026-01-05"
+  },
+  "findings": [
+    {"type": "device_owner", "severity": "critical"},
+    {"type": "scan_complete", "timestamp": "2026-01-29T15:27:49Z"}
+  ]
+}
